@@ -1,11 +1,11 @@
 # Fract-ol (school 42 project)
 
-## Description
+## Project overview
 A C-based project aimed at learning low-level graphic library usage by drawing fractals, including the Julia set and the Mandelbrot set.
 
 ## Contents
 
-- [Project Overview](#project-overview)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
@@ -14,7 +14,7 @@ A C-based project aimed at learning low-level graphic library usage by drawing f
 
 ![A Julia representation](screenshots/screenshot3.png)
 
-## Project Overview
+## Description
 This project is designed to introduce to the fundamentals of using a low-level graphic library in C. The main objective is to create visual representations of fractals, focusing on the Julia set and the Mandelbrot set as the mandatory components. I learned how to manage pixels, handle complex mathematical calculations, and render intricate fractal patterns. The project serves as a hands-on approach to understanding graphic algorithms and exploring the fascinating world of fractals.
 
 ## Installation
